@@ -1,0 +1,3 @@
+#ads.txt for vannaaaa.ml
+google.com, pub-7974227967160490, DIRECT, f08c47fec0942fa0
+contact=kartikvyomfortp@gmail.com
